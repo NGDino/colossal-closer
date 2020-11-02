@@ -67,4 +67,4 @@ There are a few pending improvements to this page:
 
 ## Questions
 
-If you have questions about this project, or if you would like to contribute, visit our repo at [GitHub](https://github.com/nmcanall/Colossal Closer) or contact Nathan directly at <nmcanall@citadel.edu>.
+If you have questions about this project, or if you would like to contribute, visit our repo at [GitHub](https://github.com/nmcanall/Colossal Closer) or contact Neil directly at <n.dino90@gmail.com>.
